@@ -48,14 +48,13 @@ tiles_data = [
     {"name": "Mikve Hari", "type": "property", "price": 400, "rent": 160, "city": "Tzfat"},
     {"name": "Pizza Yerushlim", "type": "property", "price": 400, "rent": 160, "city": "Tzfat"},
 
-    # Haifa 2 (For the last lap to complete 40)
+    # Haifa 2
     {"name": "Haifa Port", "type": "property", "price": 260, "rent": 100, "city": "Haifa"},
     {"name": "Carmelit", "type": "property", "price": 280, "rent": 110, "city": "Haifa"},
     {"name": "Dado Beach", "type": "property", "price": 300, "rent": 120, "city": "Haifa"},
 
     {"name": "East Train Station", "type": "property", "price": 200, "rent": 50, "city": None},
     {"name": "Bonus", "type": "bonus", "amount": 50, "city": None},
-    {"name": "End", "type": "end", "city": None},
 
     #Tveria
     {"name": "Kineret hotel", "type": "property", "price": 360, "rent": 140, "city": "Tveria"},
