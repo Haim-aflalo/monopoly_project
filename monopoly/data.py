@@ -55,7 +55,7 @@ tiles_data = [
 
     {"name": "East Train Station", "type": "property", "price": 200, "rent": 50, "city": None},
     {"name": "Bonus", "type": "bonus", "amount": 50, "city": None},
-    {"name": "End", "type": "end", "city": None}
+    {"name": "End", "type": "end", "city": None},
 
     #Tveria
     {"name": "Kineret hotel", "type": "property", "price": 360, "rent": 140, "city": "Tveria"},
